@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Петро\Desktop\game\Source.cpp(55,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(78,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Петро\Desktop\game\Source.cpp(108,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(115,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(115,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(154,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(154,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(157,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Петро\Desktop\game\Source.cpp(157,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  game.vcxproj -> C:\Users\Петро\Desktop\game\Debug\game.exe
